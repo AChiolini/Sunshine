@@ -1,2 +1,2 @@
 # Sunshine
-Wether forecast app following the Android course on Udacity
+Weather forecast app following the Android course on Udacity
